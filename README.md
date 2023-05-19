@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Docente de programacion web**
 
+- 👨‍💻 All of my projects are available at [https://github.com/taliade/taliade-Mi-sitio-web](https://github.com/taliade/taliade-Mi-sitio-web)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/talia-rodrigues-20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talia-rodrigues-20/" height="30" width="40" /></a>
